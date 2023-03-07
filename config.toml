@@ -1,6 +1,6 @@
 baseURL = "http://fengmi.online"
 languageCode = "zh-hans"
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-cn"
 title = "梧园"
 theme = "hermit"
 # enableGitInfo = true
