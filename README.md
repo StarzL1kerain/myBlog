@@ -4,5 +4,5 @@
 hugo
 hugo version
 hugo new about.md
-hugo new posts/脚本.md
+hugo new posts/新建页面.md
 ```
