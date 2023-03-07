@@ -8,8 +8,7 @@ toc: false
 images:
 # 文章所属标签
 tags:
-  - 文章标签1
-  - 文章标签2
+  - 语法
 
 next: /tutorials/github-pages-blog # 下一篇博客地址
 prev: /tutorials/automated-deployments # 上一篇博客地址
