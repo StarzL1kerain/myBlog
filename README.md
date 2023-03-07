@@ -1,0 +1,1 @@
+安装主题:git clone https://github.com/Track3/hermit.git ./themes/hermit
